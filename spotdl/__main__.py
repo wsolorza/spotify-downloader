@@ -91,8 +91,8 @@ def console_entry_point():
     arguments = parse_arguments()
 
     spotifyClient.initialize(
-        clientId='4fe3fecfe5334023a1472516cc99d805',
-        clientSecret='0f02b7c483c04257984695007a4a8d5c'
+        clientId='03eb56e5ab2843e98507b3a6a0359a56',
+        clientSecret='4e6600fae80845ef8dab67ccaaecee4d'
     )
 
     if arguments.path:
